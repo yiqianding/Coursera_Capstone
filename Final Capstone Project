@@ -1,0 +1,9 @@
+Introduction / Business Problem:
+
+During this capstone project, I will use geographic data of Los Angeles from Foursquare 
+to make a restaurant recommendation for a new starter who wants to open it in Los Angeles.
+
+As we know that it's hard to successfully run a business if we don't know the economic situation 
+and geographic information, because we might open the store in a wrong place that we cannot attract 
+target customers. Thus I will use location data to explore a geographical location, segment and 
+cluster neighborhoods, trying to find the most situable place to open new restaurant.
